@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Examen Prueba</string>
+    <string name="add_word">Añadir palabra</string>
+    <dimen name="big_padding">16dp</dimen>
 </resources>

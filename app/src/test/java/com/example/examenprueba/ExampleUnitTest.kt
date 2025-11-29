@@ -1,4 +1,4 @@
-package com.example.examen
+package com.example.examenprueba
 
 import org.junit.Test
 
